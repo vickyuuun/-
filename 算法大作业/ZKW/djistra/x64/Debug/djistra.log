@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\DELL\Desktop\算法大作业\djistra\djistra\FileName.cpp(11,19): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\DELL\Desktop\算法大作业\djistra\djistra\FileName.cpp(12,17): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\DELL\Desktop\算法大作业\djistra\djistra\FileName.cpp(32,48): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\DELL\Desktop\算法大作业\djistra\djistra\FileName.cpp(98,27): warning C4244: “参数”: 从“double”转换到“__int64”，可能丢失数据
+  djistra.vcxproj -> C:\Users\DELL\Desktop\算法大作业\djistra\x64\Debug\djistra.exe
